@@ -4,23 +4,23 @@
 The Student Counselling Management System is a web-based application designed to streamline and digitalize the counselling process in educational institutions. The system enables students to request counselling sessions, counsellors to manage and respond to requests, and administrators to oversee the entire process efficiently.
 This project eliminates manual handling of counselling records and provides a centralized, secure, and user-friendly platform for managing student support services.
 
-**Problem Statement**:
-In many institutions, student counselling processes are handled manually or through scattered systems, leading to:
-Inefficient appointment scheduling
-Lack of proper communication between students and counsellors
-Difficulty in tracking counselling history
-Poor data management and record maintenance
-This project solves these issues by providing an automated and structured counselling management system.
+**Problem Statement**  
+In many institutions, student counselling processes are handled manually or through scattered systems, leading to  
+Inefficient appointment scheduling  
+Lack of proper communication between students and counsellors  
+Difficulty in tracking counselling history  
+Poor data management and record maintenance  
+This project solves these issues by providing an automated and structured counselling management system.  
 
-**Key Features**
-*Student registration and login system
-*Online counselling session booking
-*Counsellor dashboard to manage requests
-*Admin panel for full system control
-*Secure storage of counselling records
-*Easy tracking of student counselling history
-*Dashboard for better management and monitoring
-*Authentication and role-based access control
+**Key Features**  
+*Student registration and login system  
+*Online counselling session booking  
+*Counsellor dashboard to manage requests  
+*Admin panel for full system control  
+*Secure storage of counselling records  
+*Easy tracking of student counselling history  
+*Dashboard for better management and monitoring  
+*Authentication and role-based access control  
 
 **Tech Stack**
 Frontend: HTML, CSS, JavaScript, ReactJs
