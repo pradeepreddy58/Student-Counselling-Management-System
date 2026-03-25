@@ -4,7 +4,7 @@
 The Student Counselling Management System is a web-based application designed to streamline and digitalize the counselling process in educational institutions. The system enables students to request counselling sessions, counsellors to manage and respond to requests, and administrators to oversee the entire process efficiently.
 This project eliminates manual handling of counselling records and provides a centralized, secure, and user-friendly platform for managing student support services.
 
-**Problem Statement**
+**Problem Statement**:
 In many institutions, student counselling processes are handled manually or through scattered systems, leading to:
 Inefficient appointment scheduling
 Lack of proper communication between students and counsellors
